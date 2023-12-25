@@ -11,6 +11,6 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=beyzaozgur&theme=radical&hide_border=false" alt="Beyza's GitHub Statistics" />  &nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=beyzaozgur&theme=radical&hide_border=false" alt="Beyza's GitHub Statistics" />
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzaozgur&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Beyza's Most Used Languages" /> 
 </div>
