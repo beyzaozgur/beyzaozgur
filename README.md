@@ -10,7 +10,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=beyzaozgur&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=-1)
 
 ### 📊 GitHub Stats
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=beyzaozgur&theme=radical&hide_border=false" alt="Beyza's GitHub Statistics" />
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzaozgur&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Beyza's Most Used Languages" /> 
+<div>
+    <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=beyzaozgur&theme=radical&hide_border=false" alt="Beyza's GitHub Statistics" /> &nbsp;
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzaozgur&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Beyza's Most Used Languages" /> 
 </div>
