@@ -1,5 +1,5 @@
 ## 01101000 01101001 👋🏻
- [![](https://visitcount.itsvg.in/api?id=beyzaozgur&icon=3&color=5)](https://visitcount.itsvg.in)<br><br>I am an enthusiastic and dedicated software engineer.<br>I have experience in web/mobile/Azure apps development.
+As an enthusiastic engineer, I am passionate about AI Systems and Web Development, bringing 3+ years of experience in the IT industry. I'm someone who learns fast and thrives in teamwork, always ensuring tasks are completed effectively. I have experience in web/mobile/Azure apps development.
 
 [![Gmail](https://img.shields.io/badge/Gmail-red)](mailto:beyzaozgur35@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beyzaozgur/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@beyzaozgur) 
 
